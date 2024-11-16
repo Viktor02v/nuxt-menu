@@ -6,6 +6,10 @@ theme: {
 		colors:{
 			background: "var(--background)",
 			sidebarBg: "var(--sidebar-bg)",
+			colorSidebar: "var(--hoverSideBar)"
+		},
+		fontSize:{
+			base:"var(--base)",
 		}
 	},
 },

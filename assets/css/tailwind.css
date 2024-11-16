@@ -6,6 +6,11 @@
 	:root {
 		--background: #234e6d;
 		--sidebar-bg: #061a29;
+		
+		--hoverSideBar: #8A57BD;
+
+
+		--base: 27px;
 	}
 }
 
