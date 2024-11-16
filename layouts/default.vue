@@ -14,6 +14,7 @@
 <style scoped>
 .grid {
 	display: grid;
-	grid-template-columns: 1fr 5fr;
+	@apply grid-cols-3 md:grid-cols-5 grid-flow-col;
+	@apply  md:grid-cols-5
 }
 </style>
